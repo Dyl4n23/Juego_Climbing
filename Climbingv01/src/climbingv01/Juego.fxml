@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane maxHeight="700.0" maxWidth="900.0" minHeight="700.0" minWidth="900.0" prefHeight="700.0" prefWidth="900.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8">
+   <children>
+      <ImageView fitHeight="5260.0" fitWidth="900.0" layoutY="-9500.0" pickOnBounds="true" preserveRatio="true" y="5000.0">
+         <image>
+            <Image url="@../../../../Downloads/hjk.png" />
+         </image>
+      </ImageView>
+      <Pane fx:id="pane" layoutX="-7.0" layoutY="-7.0" prefHeight="94.0" prefWidth="913.0" />
+   </children>
+</AnchorPane>
